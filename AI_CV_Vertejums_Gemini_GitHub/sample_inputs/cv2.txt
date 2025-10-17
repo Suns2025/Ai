@@ -1,0 +1,3 @@
+CV — Anna Kalniņa
+- Front-end izstrāde ar React 5 gadi
+- HTML, CSS, JavaScript

@@ -1,0 +1,4 @@
+CV — Jānis Bērziņš
+- Python izstrāde 4 gadi
+- Django un Flask projekti
+- SQL un REST API izstrāde

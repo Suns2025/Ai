@@ -1,0 +1,4 @@
+Darba apraksts: Python izstrādātājs
+- Python (vismaz 3 gadi)
+- REST API izstrāde
+- SQL un datu analīze
